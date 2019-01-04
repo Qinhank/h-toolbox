@@ -135,7 +135,7 @@ const getStore = (name,times) => {
   }
 }
 
-module.exports = {
+export default {
   down2blob,
   cloneDeep,
   queryArray,

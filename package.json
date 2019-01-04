@@ -1,6 +1,6 @@
 {
-  "name": "h-tools",
-  "version": "1.0.0",
+  "name": "h-toolbox",
+  "version": "0.0.1",
   "description": "一个常用函数的封装库",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Qinhank/h-tools.git"
+    "url": "git+https://github.com/Qinhank/h-toolbox.git"
   },
   "keywords": [
     "js",
@@ -17,9 +17,9 @@
   "author": "hankqin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Qinhank/h-tools/issues"
+    "url": "https://github.com/Qinhank/h-toolbox/issues"
   },
-  "homepage": "https://github.com/Qinhank/h-tools#readme",
+  "homepage": "https://github.com/Qinhank/h-toolbox#readme",
   "dependencies": {
     "lodash": "^4.17.11"
   }
